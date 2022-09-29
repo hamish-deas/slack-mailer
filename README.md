@@ -6,7 +6,7 @@ Messages will be sent from your Slack account, not from a bot user.
 # Usage
 Slack Mailer will message any users with email addresses listed in slackMailer.csv (or any other specified CSV).
 
-Edit the script and add your message in `regular_message` and `onleave_message.
+Edit the script and add your message in `regular_message` and `onleave_message`.
 
 Once the CSV is populated with email addresses, simply run `python3 slack-mailer.py`.
 
